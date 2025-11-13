@@ -69,44 +69,44 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es el desarrollo web? 
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección]
+- **Enlace**: [Ver Leccion 1](https://youtu.be/HqvPvey_Rjg?si=84yTVPUAgizqVEeq)
 - **Presentación**: [Ver la presentación](https://www.canva.com/design/DAG4J23OExY/uBSRtTHUiiWY1-gOSgmJMw/edit?utm_content=DAG4J23OExY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS); Internet conecta páginas web.
 - **Material de apoyo**: Presentación interactiva sobre fundamentos web
 
 ### Lección 2: Introducción a HTML 
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página web.
-- **Enlace**: [Ver la lección]
+- **Enlace**: [Ver Lección 2](https://youtu.be/45G8Ee8FmjM?si=8Uli31coXaF6ClJM)
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`; estructura básica del documento.
 - **Práctica**: [Clic para programar](https://replit.com/@Diego-AlonsoA72/Curso-HTML) 
 
 ### Lección 3: Añadir más elementos HTML 
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección]
+- **Enlace**: [Ver Lección 3](https://youtu.be/n_HJbpT2-Ag?si=289jh1DYX4fWCPLs)
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`; conecta páginas con enlaces.
 - **Práctica**: [Clic para programar](https://replit.com/@Diego-AlonsoA72/Curso-HTML)  
 
 ### Lección 4: Introducción a CSS 
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección]
+- **Enlace**: [Ver Lección 4](https://youtu.be/rFZHkRRKbe0?si=HyYroh5VAY91Rr68)
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`; separación de contenido y diseño.
 - **Práctica**: [Aplicar estilo con un clic](https://replit.com/@AndresTorresUPC/Leccion-4?v=1) 
 
 ### Lección 5: Crear una página web con diseño 
 - **Descripción**: Combinar HTML y CSS para crear una página web atractiva con diseño centrado.
-- **Enlace**: [Ver la lección]
+- **Enlace**: [Ver Lección 5](https://youtu.be/7Z-7EkztfOA?si=bewHy8xd_XVPRevU)
 - **Consejos clave**: Alineación de texto, bordes de imágenes, diseño responsivo básico.
 - **Proyecto intermedio**: [Crea tu página con estilo](https://replit.com/@ikerbarturen659/Aplicaciones-Web?v=1) 
 
 ### Proyecto Final: Perfil Personal Completo 
 - **Descripción**: Crea una página de perfil personal completa usando todos los elementos aprendidos.
-- **Enlace**: [Ver la lección]
+- **Enlace**: [Ver Proyecto Final](https://youtu.be/_uZpT1Zkes4?si=mhhpZmPSQDaBX_ej)
 - **Consejos clave**: Integración de imagen de perfil, secciones organizadas, diseño profesional.
 - **Proyecto Final**: [Crea tu Perfil Personal](https://replit.com/@StephanoEspinoz/Pagina-Web-Basica)
 
 ### Lección 6: Consejos y Próximos Pasos 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más desarrollo web.
-- **Enlace**: [Ver Lección]
+- **Enlace**: [Ver Lección 6](https://youtu.be/d0KXho9j12Q?si=gSnuXmIcjcXkYCjs)
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN, responsive design.
 - - **Proyecto Final**: [Diapositiva de Consejos de Mejora](https://www.canva.com/design/DAG4aHfNGtU/KCKgaf5CZHUNZBTDMZ8KcQ/edit?utm_content=DAG4aHfNGtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
