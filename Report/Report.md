@@ -6,6 +6,7 @@
 
 ### Carrera: Ingeniería de Software
 ### Aplicaciones Web - Presencial
+### Código del Curso: 1asi0730 
 ### Profesor: Rafael Oswaldo Castro Veramendi
 ### NRC: 7470
 
@@ -52,7 +53,7 @@
 
 ---
 
-### Ciclo 2025-20
+### Periodo 2025-20
 
 </div>
 
@@ -510,3 +511,62 @@ a{
 - Página de perfil personal completa y profesional
 - Demostración de todos los conceptos aprendidos en el curso
 - Base sólida para proyectos web más avanzados
+
+
+# Anexo: Actividades del Curso de Desarrollo Web
+
+En esta sección se recopilan los enlaces a mis proyectos, prácticas y recursos realizados durante el curso. Cada enlace incluye su respectiva descripción y objetivo.
+
+---
+
+## 1. Introducción al desarrollo web (¿Qué es un sitio web?)
+**Enlace:** [Ver presentación en Canva](https://www.canva.com/design/DAG4J23OExY/uBSRtTHUiiWY1-gOSgmJMw/edit?utm_content=DAG4J23OExY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+**Descripción:** Presentación visual que explica qué es un sitio web, su estructura básica y los elementos que lo componen (dominio, hosting, páginas, hipervínculos, etc.).  
+**Objetivo:** Comprender el concepto de sitio web y su importancia en el entorno digital actual.
+
+---
+
+## 2. Estructura HTML básica (etiquetas, elementos y atributos)
+**Enlace:** [Replit - Curso HTML](https://replit.com/@Diego-AlonsoA72/Curso-HTML)  
+**Descripción:** Creación de la primera página web utilizando la estructura base de HTML con etiquetas como `<html>`, `<head>`, `<body>`, `<h1>` y `<p>`.  
+**Objetivo:** Entender la estructura fundamental de un documento HTML y la función de las etiquetas, elementos y atributos dentro de la página.
+
+---
+
+## 3. Elementos HTML comunes (encabezados, párrafos, listas, imágenes y enlaces)
+**Enlace:** [Replit - Elementos Interactivos](https://replit.com/@Diego-AlonsoA72/Curso-HTML)  
+**Descripción:** Implementación de elementos comunes de HTML como encabezados, párrafos, listas, imágenes, enlaces y otros componentes básicos.  
+**Objetivo:** Aprender a estructurar información de forma clara y ordenada en una página web utilizando los elementos más comunes de HTML.
+
+---
+
+## 4. Introducción a CSS (selectores y propiedades como color, fuente y diseño)
+**Enlace:** [Replit - Lección 4 CSS](https://replit.com/@AndresTorresUPC/Leccion-4?v=1)  
+**Descripción:** Ejercicio introductorio de CSS para aplicar estilos básicos, seleccionando elementos y modificando sus propiedades visuales (color, tipografía, alineación y espaciado).  
+**Objetivo:** Comprender cómo aplicar estilos mediante selectores y propiedades para mejorar la presentación de una página web.
+
+---
+
+## 5. Estilo simple (centrar contenido, añadir colores y bordes)
+**Enlace:** [Replit - Aplicaciones Web](https://replit.com/@ikerbarturen659/Aplicaciones-Web?v=1)  
+**Descripción:** Aplicación práctica de estilos sencillos en CSS para centrar contenido, añadir bordes y definir colores coherentes dentro de una página web.  
+**Objetivo:** Aprender a utilizar reglas básicas de estilo para crear una interfaz visualmente equilibrada y agradable.
+
+---
+
+## 6. Creación de una página web básica (página de perfil o entrada de blog)
+**Enlace:** [Replit - Página Web Básica](https://replit.com/@StephanoEspinoz/Pagina-Web-Basica)  
+**Descripción:** Desarrollo de una página personal con información del autor, imágenes, enlaces y estilo propio, integrando HTML y CSS.  
+**Objetivo:** Consolidar los conocimientos aprendidos creando una página web funcional y personalizada desde cero.
+
+---
+
+## 7. Recomendaciones y errores comunes para principiantes
+**Enlace:** [Ver presentación en Canva](https://www.canva.com/design/DAG4aHfNGtU/KCKgaf5CZHUNZBTDMZ8KcQ/edit?utm_content=DAG4aHfNGtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)  
+**Descripción:** Presentación con los errores más frecuentes que cometen los principiantes al desarrollar páginas web y las recomendaciones para evitarlos.  
+**Objetivo:** Reconocer los errores comunes y aplicar buenas prácticas para mejorar la calidad del código y el diseño web.
+
+---
+## Recursos adicionales
+**Lista de reproducción del curso:** [Introducción al Desarrollo Web – YouTube](https://www.youtube.com/playlist?list=PLPYSLiiTTFtPHX4GE2n8SQ6_kM6Amm6zL)  
+**Descripción:** Serie de videos que reúne todas las lecciones vistas en clase, desde la estructura HTML hasta el diseño con CSS.
