@@ -112,7 +112,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 - - **Proyecto Final**: [Diapositiva de Consejos de Mejora](https://www.canva.com/design/DAG4aHfNGtU/KCKgaf5CZHUNZBTDMZ8KcQ/edit?utm_content=DAG4aHfNGtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Recursos Adicionales
-- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/Devspros-Course-Html-Css/informe-fundamentals-course-Devspros)
+- **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/DiabeLife-Course-Html-Css/Html-Css-fundamentals-course-DiabeLife)
 - **Todas las Actividades Prácticas**:
 
 | Lección # | Actividad | Empezar a Programar |
