@@ -67,47 +67,48 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **📂 Repositorio de código fuente**: [https://github.com/Devspros-Course-Html-Css/informe-fundamentals-course-Devspros](https://github.com/Devspros-Course-Html-Css/informe-fundamentals-course-Devspros)
 
 ## Secuencia de la Lección
-### Lección 1: ¿Qué es el desarrollo web? (5 minutos)
+### Lección 1: ¿Qué es el desarrollo web? 
 - **Descripción**: Aprende de qué están hechos los sitios web y por qué HTML y CSS son los componentes básicos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link1)
+- **Enlace**: [Ver la lección]
+- **Presentación**: [Ver la presentación](https://www.canva.com/design/DAG4J23OExY/uBSRtTHUiiWY1-gOSgmJMw/edit?utm_content=DAG4J23OExY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 - **Consejos clave**: Sitios web = Contenido (HTML) + Estilo (CSS); Internet conecta páginas web.
-- **Empieza a explorar**: [Abrir CodePen - Exploración](https://codepen.io/pen/?template=your-starter)
+- **Material de apoyo**: Presentación interactiva sobre fundamentos web
 
-### Lección 2: Introducción a HTML (10 minutos)
+### Lección 2: Introducción a HTML 
 - **Descripción**: Explora las etiquetas HTML básicas y crea tu primera página web.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link2)
+- **Enlace**: [Ver la lección]
 - **Consejos clave**: Usa `<html>`, `<head>`, `<body>`, `<h1>`, `<p>`; estructura básica del documento.
-- **Práctica**: [Clic para programar](https://codepen.io/your-pen-id) 👈 **¡No necesitas registrarte!**
+- **Práctica**: [Clic para programar](https://replit.com/@Diego-AlonsoA72/Curso-HTML) 
 
-### Lección 3: Añadir más elementos HTML (8 minutos)
+### Lección 3: Añadir más elementos HTML 
 - **Descripción**: Agrega listas, imágenes y enlaces para que tu página sea interactiva.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link3)
+- **Enlace**: [Ver la lección]
 - **Consejos clave**: Usa las etiquetas `<ul>`, `<img>`, `<a>`; conecta páginas con enlaces.
-- **Práctica**: [Clic para programar](https://jsfiddle.net/your-fiddle-id) 👈 **¡Comienza al instante!**
+- **Práctica**: [Clic para programar](https://replit.com/@Diego-AlonsoA72/Curso-HTML)  
 
-### Lección 4: Introducción a CSS (12 minutos)
+### Lección 4: Introducción a CSS 
 - **Descripción**: Dale estilo a tu HTML con colores, fuentes y diseños.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link4)
+- **Enlace**: [Ver la lección]
 - **Consejos clave**: Vincular CSS, usar selectores como `body { background-color: blue; }`; separación de contenido y diseño.
-- **Práctica**: [Aplicar estilo con un clic](https://codepen.io/your-css-pen) 👈 **¡No es necesario registrarse!**
+- **Práctica**: [Aplicar estilo con un clic](https://replit.com/@AndresTorresUPC/Leccion-4?v=1) 
 
-### Lección 5: Crear una página web con diseño (15 minutos)
+### Lección 5: Crear una página web con diseño 
 - **Descripción**: Combinar HTML y CSS para crear una página web atractiva con diseño centrado.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link5)
+- **Enlace**: [Ver la lección]
 - **Consejos clave**: Alineación de texto, bordes de imágenes, diseño responsivo básico.
-- **Proyecto intermedio**: [Crea tu página con estilo](https://codepen.io/your-intermediate-project) 👈 **¡Experimenta con diseños!**
+- **Proyecto intermedio**: [Crea tu página con estilo](https://replit.com/@ikerbarturen659/Aplicaciones-Web?v=1) 
 
-### Proyecto Final: Perfil Personal Completo (15 minutos)
+### Proyecto Final: Perfil Personal Completo 
 - **Descripción**: Crea una página de perfil personal completa usando todos los elementos aprendidos.
-- **Enlace**: [Ver la lección](https://www.youtube.com/watch?v=example-link6)
+- **Enlace**: [Ver la lección]
 - **Consejos clave**: Integración de imagen de perfil, secciones organizadas, diseño profesional.
-- **Proyecto Final**: [Crea tu Perfil Personal](https://codepen.io/your-final-project) 👈 **¡Guarda y comparte!**
+- **Proyecto Final**: [Crea tu Perfil Personal](https://replit.com/@StephanoEspinoz/Pagina-Web-Basica)
 
-### Lección 6: Consejos y Próximos Pasos (5 minutos)
+### Lección 6: Consejos y Próximos Pasos 
 - **Descripción**: Mejores prácticas, errores comunes y dónde aprender más desarrollo web.
-- **Enlace**: [Ver Lección](https://www.youtube.com/watch?v=example-link7)
+- **Enlace**: [Ver Lección]
 - **Consejos Clave**: Valida el código, explora la Documentación Web de MDN, responsive design.
-- **Comparte tu Trabajo**: [Envía tu Creación](https://forms.gle/your-form)
+- - **Proyecto Final**: [Diapositiva de Consejos de Mejora](https://www.canva.com/design/DAG4aHfNGtU/KCKgaf5CZHUNZBTDMZ8KcQ/edit?utm_content=DAG4aHfNGtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 ## Recursos Adicionales
 - **Código Fuente Completo**: [Repositorio de GitHub](https://github.com/Devspros-Course-Html-Css/informe-fundamentals-course-Devspros)
@@ -115,16 +116,15 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 
 | Lección # | Actividad | Empezar a Programar |
 |----------|----------|-------------|
-| 1 | Explorar Desarrollo Web | [Presentación](https://your-slides-link) |
-| 2 | Primera página HTML | [CodePen](https://codepen.io/your-lesson2) |
-| 3 | Elementos interactivos | [CodePen](https://codepen.io/your-lesson3) |
-| 4 | Estilo con CSS | [CodePen](https://codepen.io/your-lesson4) |
-| 5 | Página con diseño | [CodePen](https://codepen.io/your-lesson5) |
-| Final | Perfil personal | [CodePen](https://codepen.io/your-final-project) |
+| 1 | ¿Qué es el desarrollo web? | [Presentación Canva](https://www.canva.com/design/DAG4J23OExY/uBSRtTHUiiWY1-gOSgmJMw/edit?utm_content=DAG4J23OExY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| 2 | Tu primera página HTML | [Replit](https://replit.com/@Diego-AlonsoA72/Curso-HTML) |
+| 3 | Elementos interactivos HTML | [Replit](https://replit.com/@Diego-AlonsoA72/Curso-HTML) |
+| 4 | Introducción a CSS | [Replit](https://replit.com/@AndresTorresUPC/Leccion-4?v=1) |
+| 5 | Página web con diseño | [Replit](https://replit.com/@ikerbarturen659/Aplicaciones-Web?v=1) |
+| 6 | Consejos y próximos pasos | [Presentación Canva](https://www.canva.com/design/DAG4aHfNGtU/KCKgaf5CZHUNZBTDMZ8KcQ/edit?utm_content=DAG4aHfNGtU&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton) |
+| Final | Perfil personal completo | [Replit](https://replit.com/@StephanoEspinoz/Pagina-Web-Basica) |
 
-- **Quiz**: [Pon a prueba tus conocimientos](https://forms.gle/your-quiz)
 - **Compartir**: #WebDevBeginners
-- **Recursos extra**: [MDN Web Docs](https://developer.mozilla.org/es/), [W3Schools](https://www.w3schools.com/)
 
 **¡Gracias por completar el curso!**
 
@@ -134,12 +134,11 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 Universidad Peruana de Ciencias Aplicadas
 Carrera de Ingeniería de Software
 Período 2025-20
-Aplicaciones Web - Presencial (1ASI0730)
+Aplicaciones Web - Presencial
 NRC 7470
 
 **Startup**: Devspros
 **Producto**: Diabelife
-**Líder del equipo**: Barturén Panéz, Iker Gabriel
 **Integrantes del equipo**: 
 - Mamani Marca, Gabriel Cristian (u202220659)
 - Barturén Panéz, Iker Gabriel (u202312629)
@@ -158,6 +157,8 @@ NRC 7470
 **Descripción**
 
 Esta lección introduce los conceptos fundamentales del desarrollo web. Los estudiantes aprenden la diferencia entre contenido (HTML) y presentación (CSS), y comprenden cómo funcionan los sitios web.
+
+**Presentación**: [Ver presentación interactiva](https://www.canva.com/design/DAG4J23OExY/uBSRtTHUiiWY1-gOSgmJMw/edit?utm_content=DAG4J23OExY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
 
 **Conceptos clave**
 - Internet y la World Wide Web
@@ -194,6 +195,8 @@ Esta lección enseña la estructura básica de un documento HTML. Los estudiante
 </body>
 </html>
 ```
+
+**Enlace del proyecto**: [Ver en Replit](https://replit.com/@Diego-AlonsoA72/Curso-HTML)
 
 **Conceptos clave**
 - Estructura básica del documento HTML (`<!DOCTYPE>`, `<html>`, `<head>`, `<body>`)
@@ -239,6 +242,8 @@ Esta lección amplía el conocimiento HTML agregando listas, imágenes y enlaces
 </body>
 </html>
 ```
+
+**Enlace del proyecto**: [Ver en Replit](https://replit.com/@Diego-AlonsoA72/Curso-HTML)
 
 **Conceptos clave**
 - Listas no ordenadas (`<ul>`) y elementos de lista (`<li>`)
@@ -308,6 +313,8 @@ li {
 }
 ```
 
+**Enlace del proyecto**: [Ver en Replit](https://replit.com/@AndresTorresUPC/Leccion-4?v=1)
+
 **Conceptos clave**
 - Vinculación de archivos CSS con `<link rel="stylesheet">`
 - Selectores de elementos (`body`, `h1`, `p`, `li`)
@@ -333,23 +340,20 @@ Esta lección enseña conceptos de diseño más avanzados usando CSS. Los estudi
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Página con Diseño</title>
-    <link rel="stylesheet" href="style.css">
+    <title>Mi comida Favorita</title>
+    <link rel="stylesheet" type="text/css" href="Leccion5.css">
 </head>
 <body>
-    <h1>Mis Cosas Favoritas</h1>
-
-    <h2>Mis comidas favoritas:</h2>
+    <h1>Mi platos favoritos</h1>
+    <h2>Mi comida rapida favorita</h2>
     <ul>
         <li>Pizza</li>
-        <li>Hamburguesas</li>
-        <li>Helado</li>
+        <li>Hamburguesa</li>
+        <li>Tacos</li>
     </ul>
-
-    <h2>Mi comida favorita:</h2>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCjUDxXKtszoBJFQbvj8UL2CbVwJVxyM_3iJUHisxHHxpTzGMvolq9XlqSBiI9_SyA38058uL0M-X0ZnRMjjNdUZDXWZ8DnIf0__PTAZc&s=10" alt="Imagen de mi comida favorita">
-
-    <p>Visita mi sitio favorito: <a href="https://www.google.com">Google</a></p>
+    <h2>Mi comida saludable favorita</h2>
+    <img src="https://imag.bonviveur.com/ensalada-de-lechuga-y-tomate-foto-cerca.jpg" alt="Ensalada">
+    <p>Visita mi local favorito: <a href="https://www.papajohns.com.pe/cyber-papajohns?gad_source=1&gad_campaignid=20288048116&gclid=CjwKCAiA8bvIBhBJEiwAu5ayrNuujFbkjJLbKOVvwGN8oQXQA7wkFi1JITkniX9BLaLfP4IqwS1ZVBoC-HEQAvD_BwE">Papa Johns</a></p>
 </body>
 </html>
 ```
@@ -363,13 +367,16 @@ body {
 }
 
 h1 {
-    color: darkblue;
-    font-family: Arial;
+    color: red;
+}
+
+h2 {
+    color: green;
 }
 
 ul {
-    display: inline-block;
-    text-align: left;
+    list-style-type: none;
+    padding: 0;
 }
 
 li {
@@ -377,20 +384,25 @@ li {
 }
 
 img {
-    border: 5px solid red;
+    border: 5px solid black;
 }
 ```
 
+**Enlace del proyecto**: [Ver en Replit](https://replit.com/@ikerbarturen659/Aplicaciones-Web?v=1)
+
 **Conceptos clave**
 - Alineación de texto con `text-align: center`
-- Propiedad `display: inline-block` para listas
-- Bordes decorativos con `border`
-- Combinación de alineaciones (centrado general, izquierda específica)
-- Principios básicos de diseño visual
+- Estilos de color personalizados (`color: red`, `color: green`)
+- Eliminación de estilos de lista con `list-style-type: none`
+- Bordes decorativos con `border: 5px solid black`
+- Enlaces externos funcionales
+- Organización de contenido temático (comida rápida vs saludable)
 
 **Resultado esperado**
-- Página web con diseño centrado y elementos bien organizados
-- Comprensión de propiedades de diseño CSS
+- Página web temática sobre comidas favoritas con diseño centrado
+- Comprensión de estilos CSS avanzados y personalización de colores
+- Implementación de enlaces externos funcionales
+- Organización visual clara con diferentes tipos de contenido
 
 ---
 
@@ -405,29 +417,32 @@ El proyecto final integra todos los conceptos aprendidos: estructura HTML semán
 ```html
 <!DOCTYPE html>
 <html>
+<link rel= "stylesheet" href="style.css">
+
 <head>
     <title>Mi Perfil Personal</title>
-    <link rel="stylesheet" href="style.css">
 </head>
 <body>
-    <h1>¡Hola! Soy Juan Pérez</h1>
+<h1>Holaa!! Soy Monkey Phano</h1>
 
-    <img src="https://media.discordapp.net/attachments/1248353179196981301/1433226352198418462/iu.png?ex=690bd48e&is=690a830e&hm=db3a14a4412b3022f42ee40c57e9c7160d60b4f8206162db374987a3c9501de1&=&format=webp&quality=lossless&width=557&height=742" alt="Mi foto de perfil">
+<img src=alt=<img src="assets/yo2.png" height="1021" width="828"/> "Mi foto de perfil">
 
-    <h2>Sobre Mí</h2>
-    <p>Soy estudiante y me encanta aprender cosas nuevas. Actualmente estoy aprendiendo desarrollo web y me fascina crear páginas increíbles.</p>
+<h2> Sobre Mí</h2>
+<p>Soy una persona muy curiosa y con muchas ganas de aprender, me gusta mucho la música y los videojuegos, me gusta mucho la tecnología y los animales, me gusta mucho la naturaleza y los viajes.</p>
+<h2>Mis Hobbies</h2>
+<ul>
 
-    <h2>Mis Hobbies</h2>
-    <ul>
-        <li>Programar</li>
-        <li>Leer libros</li>
-        <li>Jugar videojuegos</li>
-        <li>Ver películas</li>
-    </ul>
+    <li>Escuchar música</li>
+    <li>Jugar videojuegos</li>
+    <li>Ver series</li>
+    <li>Programar</li>
+    <li>Ir Gimnasio</li>
 
-    <h2>Contacto</h2>
-    <p>Email: <a href="mailto:juan@ejemplo.com">juan@ejemplo.com</a></p>
-    <p>Sitio web: <a href="https://www.ejemplo.com">www.ejemplo.com</a></p>
+</ul>
+
+<h2>Contactos</h2>
+<p>Email: <a href="mailto:monkeyphano@gmail.com"> monkeyphano@gmail.com</a> </p>
+<p> Portafolio: <a href="https://monkeyphano.portafolio">https://monkeyphano.portafolio/</a> </p>
 </body>
 </html>
 ```
@@ -435,47 +450,40 @@ El proyecto final integra todos los conceptos aprendidos: estructura HTML semán
 **Código (style.css)**
 
 ```css
-body {
+body{
     background-color: #f0f0f0;
     text-align: center;
     font-family: Arial;
 }
-
-h1 {
+h1{
     color: #2c3e50;
 }
-
-h2 {
+h2{
     color: #34495e;
 }
-
-img {
-    border: 5px solid #3498db;
+img{
+    border: 5px solid #34495e;
     border-radius: 50%;
     width: 200px;
     height: 200px;
 }
-
-ul {
+ul{
     display: inline-block;
     text-align: left;
     background-color: white;
     padding: 20px;
     border: 2px solid #3498db;
 }
-
-li {
+li{
     color: #555;
     margin: 10px 0;
 }
-
-p {
+p{
     color: #666;
     max-width: 600px;
     margin: 20px auto;
 }
-
-a {
+a{
     color: #3498db;
     text-decoration: none;
 }
@@ -487,6 +495,8 @@ a {
 - **Secciones organizadas**: Información personal, hobbies y contacto
 - **Tipografía**: Diferentes tamaños y colores para jerarquía visual
 - **Enlaces funcionales**: Email y sitio web con estilos personalizados
+
+**Enlace del proyecto**: [Ver en Replit](https://replit.com/@StephanoEspinoz/Pagina-Web-Basica)
 
 **Conceptos integrados**
 - Estructura semántica HTML (`<h1>`, `<h2>`, `<p>`, `<ul>`, `<li>`)
