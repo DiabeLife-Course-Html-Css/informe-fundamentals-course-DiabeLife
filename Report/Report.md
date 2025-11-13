@@ -64,7 +64,7 @@ Este curso de 1 hora introduce a estudiantes de secundaria a la creación de sit
 **Público objetivo**: Estudiantes de 12 a 17 años sin experiencia en desarrollo web
 **Prerrequisitos**: Ninguno
 **Herramientas necesarias**: **¡Solo tu navegador web!** (Chrome, Firefox, Safari, Edge)
-**📂 Repositorio de código fuente**: [https://github.com/Devspros-Course-Html-Css/informe-fundamentals-course-Devspros](https://github.com/Devspros-Course-Html-Css/informe-fundamentals-course-Devspros)
+**📂 Repositorio de código fuente**: [Proyecto en GitHub](https://github.com/DiabeLife-Course-Html-Css/Html-Css-fundamentals-course-DiabeLife)
 
 ## Secuencia de la Lección
 ### Lección 1: ¿Qué es el desarrollo web? 
